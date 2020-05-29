@@ -21,7 +21,7 @@ The four feature extraction techniques that I have used are:
 
 ### Project Phase 3: Feature Selection 
 Principal Component Analysis (PCA) takes only one matrix, so, I merged the results obtained in Phase 2 in a single matrix. Hence, the feature matrix will have (No. of patient meals) x 20 features corresponding to each action and the rows corresponding to the timestamps in Phase 2. I was able to find few useful features having higher discrimination power by plotting graphs against every feature for every patient. Hence, I further decided to proceed with selected features to perform PCA on the resulting matrix to find best latent semantics which have the highest discrimination power, even among the ones selected during Phase 2 feature selection process.
-The [Output/PCA](PCA-Graphs) represent each principal component vectors for the data along with which data can be projected individually.
+The [PCA-Graphs](Output/PCA) represent each principal component vectors for the data along with which data can be projected individually.
 
 ## Input Data
 **Input:** Time Series data for 5 patients:
