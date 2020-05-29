@@ -36,8 +36,8 @@ The [Output/PCA](PCA-Graphs) represent each principal component vectors for the 
 - Example output for Patient 1:
 
 
-<p><img src="Output/Features/Patient1/Data.png" alt="Data" width="350"/>
-<img src="Output/Features/Patient1/Avg.png" alt="Average" width="350"/><img src="Output/Features/Patient1/Error.png" alt="Error" width="350"/></p>
+<img src="Output/Features/Patient1/Data.png" alt="Data" width="400"/>
+<p><img src="Output/Features/Patient1/Avg.png" alt="Average" width="400"/><img src="Output/Features/Patient1/Error.png" alt="Error" width="400"/></p>
 <p><img src="Output/Features/Patient1/FFT.png" alt="FFT" width="350"/><img src="Output/Features/Patient1/kurtosis.png" alt="Kurtosis" width="350"/></p>
 
 ## Requirements
