@@ -34,6 +34,7 @@ The [Output/PCA](PCA-Graphs) represent each principal component vectors for the 
 ## Output Graphs
 **Output:** Feature Graphs and PCA for 5 patients found in **[Output](Output)**
 - Example output for Patient 1:
+<br/>
 ![image](Output/Features/Patient1/Data.png)
 ![image](Output/Features/Patient1/Avg.png)
 ![image](Output/Features/Patient1/Error.png)
