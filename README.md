@@ -1,1 +1,1 @@
-# Feature Extaction, Verifcation, Validation and PCA on CGM TimeSeries
+# Feature Extaction, Verifcation and PCA on CGM TimeSeries
