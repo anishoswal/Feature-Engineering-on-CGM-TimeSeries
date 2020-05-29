@@ -35,7 +35,9 @@ The [Output/PCA](PCA-Graphs) represent each principal component vectors for the 
 **Output:** Feature Graphs and PCA for 5 patients found in **[Output](Output)**
 
 ## Requirements
-```pandas==0.25.3
+```
+pandas==0.25.3
 matplotlib==320rc1
 scipy==1.3.2
-sklearn==0.0```
+sklearn==0.0
+```
