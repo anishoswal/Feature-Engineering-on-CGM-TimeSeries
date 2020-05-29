@@ -54,5 +54,5 @@ python Code.py
 ```
 
 ## Tested Running Environment
-**OS:** Windows 10
-**Python:** 3.7
+- **OS:** Windows 10
+- **Python:** 3.7
