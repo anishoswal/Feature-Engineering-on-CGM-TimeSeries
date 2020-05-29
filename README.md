@@ -33,7 +33,12 @@ The [Output/PCA](PCA-Graphs) represent each principal component vectors for the 
 
 ## Output Graphs
 **Output:** Feature Graphs and PCA for 5 patients found in **[Output](Output)**
-
+- Example output for Patient 1:
+![image](Output/Features/Patient1/Data.png)
+![image](Output/Features/Patient1/Avg.png)
+![image](Output/Features/Patient1/Error.png)
+![image](Output/Features/Patient1/FFT.png)
+![image](Output/Features/Patient1/kurtosis.png)
 ## Requirements
 ```
 pandas==0.25.3
@@ -41,3 +46,12 @@ matplotlib==320rc1
 scipy==1.3.2
 sklearn==0.0
 ```
+
+## Command Line
+```
+python Code.py
+```
+
+## Tested Running Environment
+**OS:** Windows 10
+**Python:** 3.7
